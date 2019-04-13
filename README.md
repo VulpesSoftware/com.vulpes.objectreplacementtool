@@ -6,8 +6,7 @@ What's this?
 - It's a Unity Editor Tool that can be used to quickly replace multiple objects at once.
 
 What can I do with the code?
-- You can pretty much do whatever you want with the code provided here, just don't go trying to sell it, that's kind of a shitty thing to do given that I've released it here for free.
-- You're welcome to integrate it into larger projects and/or frameworks if you want, you're not expected to release your entire code base as a result of integrating this into a larger project or collection of code, that would be a bit silly.
+- Whatever you want.
 
 How do I use it?
 - Download 'ObjectReplacementTool.cs' or clone the repo if you like.
