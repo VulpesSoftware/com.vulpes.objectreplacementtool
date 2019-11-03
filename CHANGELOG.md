@@ -6,3 +6,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [1.0.0] - 2019-10-22
 This is the first release of *Object Replacement Tool* as a Package.
+
+## [1.0.1] - 2019-11-03
+Fixed incorrectly named assembly definition file.
