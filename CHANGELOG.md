@@ -9,3 +9,6 @@ This is the first release of *Object Replacement Tool* as a Package.
 
 ## [1.0.1] - 2019-11-03
 Fixed incorrectly named assembly definition file.
+
+## [1.0.2] - 2019-11-03
+Folder Restructure.

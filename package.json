@@ -1,7 +1,7 @@
 {
   "name": "com.vulpes.objectreplacementtool",
   "displayName": "Vulpes Object Replacement Tool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2019.2",
   "description": "A tool for quickly replacing multiple objects at once within the Unity Editor.",
   "keywords": [
