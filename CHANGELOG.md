@@ -12,3 +12,6 @@ Fixed incorrectly named assembly definition file.
 
 ## [1.0.2] - 2019-11-03
 Folder Restructure.
+
+## [1.0.3] - 2021-10-13
+Fixed error that could occur at build time.
